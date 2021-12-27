@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>DashBoard.qml</file>
+        <file>UI/Main/list.png</file>
+        <file>UI/DashBoard/list.png</file>
+    </qresource>
+</RCC>
